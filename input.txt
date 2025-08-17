@@ -1,0 +1,2 @@
+Hello, this is a test of the text-to-speech converter.
+I am an AI assistant and I am converting this text to audio.
